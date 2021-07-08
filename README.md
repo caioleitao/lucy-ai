@@ -1,1 +1,1 @@
-# amie-ai
+# Amie AI
