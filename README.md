@@ -1,1 +1,1 @@
-# Amie AI
+# Lucy AI
